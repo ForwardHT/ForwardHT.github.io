@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Ht's Blog
+SEOTitle: 黄涛的博客 | Ht's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: 309110653@qq.com
+description: "iOS Developer | 黄涛，有想法的IT民工 | 努力朝着Full Stack 努力。"
 keyword: ""
 url: "http://lazyht.com"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     想看一片海
+#zhihu_username:     huxpro
+github_username:    ForwardHT
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
